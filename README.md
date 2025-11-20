@@ -1,4 +1,4 @@
-Competition Hub: Your Centralized Event Discovery Platform
+Competition Hub: Centralized Event Discovery Platform
 
 ### Project Overview
 
